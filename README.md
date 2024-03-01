@@ -1,1 +1,1 @@
-This file contains the information about the Ad-Hoc business sql queries to be addressed and it contains the DDL,DML and the query script for all the avilable questions
+This file contains the information about the Ad-Hoc business SQL queries to be addressed and it contains the DDL,DML and the query script for all the available questions for the resume challenge project 9
