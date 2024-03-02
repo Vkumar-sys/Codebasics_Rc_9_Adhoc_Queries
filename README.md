@@ -1,4 +1,5 @@
 This file contains the information about the Ad-Hoc business SQL queries to be addressed and it contains the DDL,DML and the query script for all the available questions for the resume challenge project 9.Below are the details of the same:-
+
 ↪Q1> Provide a list of products with base price greater than 500 and that are featured in the promo type of "BOGOF".
 ✔ This information will help us identify high-value products that are currently being heavily discounted which can be useful for evaluating our pricing and promotion strategies
 
@@ -24,7 +25,7 @@ This report will provide essential information including product name,category a
 
 ✔This analysis helps us identify the most successful products in terms of Incremental Revenue across our campaigns assisting in product optimization.
 
---------------These are the set of queries that needs to be answered regarding the Ad-Hoc business questions-----------
+>>Note: These are the set of queries that needs to be answered regarding the Ad-Hoc business questions and solution for the same is attached in the above SQL files attached one by one in with the solution and query output attached
 
 
 
