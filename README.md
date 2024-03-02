@@ -7,7 +7,7 @@ This file contains the information about the Ad-Hoc business SQL queries to be a
 ↪Q2> Generate a report that provides an overview of number of stores in each city.
 
 ✔ The results will be sorted in descending order of store counts,allowing us to identify the cities with highest store 
- presence.This report includes two essential fields:city and store count,which will assist in optimizing our retail opeartions.
+ presence.This report includes two essential fields:city and store count,which will assist in optimizing our retail operations
  
 ↪Q3> Generate a report that displays each campaign along with the total revenue generated before and after the campaign ?This report includes three key fields:campaign_name,total_revenue(before_promotion),total_revenue(after_promotion)(Display the result in millions)
 
