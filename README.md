@@ -13,7 +13,7 @@ This file contains the information about the Ad-Hoc business SQL queries to be a
 
 ✔ This report should help in evaluating the financial impact of our promotional campaigns.
 
-↪Q4> Produce a report that calculates the Incremental Sold Quantity(ISU %) for each category dring the Diwali campaign.
+↪Q4> Produce a report that calculates the Incremental Sold Quantity(ISU %) for each category during the Diwali campaign.
      Additionally,provide rankings for the categories based on their ISU %.
  The report will include three key fields: Category, ISU% and rank order.
  
